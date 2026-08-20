@@ -13,8 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mohin-08/dsa-problems/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Mohin-08/dsa-problems/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mohin-08/dsa-problems/tree/master/0067-add-binary) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Mohin-08/dsa-problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

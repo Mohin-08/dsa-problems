@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mohin-08/dsa-problems/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/Mohin-08/dsa-problems/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mohin-08/dsa-problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Mohin-08/dsa-problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Mohin-08/dsa-problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Mohin-08/dsa-problems/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mohin-08/dsa-problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Mohin-08/dsa-problems/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,4 +40,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mohin-08/dsa-problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Mohin-08/dsa-problems/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
